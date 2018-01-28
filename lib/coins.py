@@ -1295,8 +1295,8 @@ class Bolt(Coin):
     GENESIS_HASH = ('b194642b3e16cb5094cbeadbf29a04c2'
                     '24f31239e9dda1aea38949c51bead5e7')
     
-    TX_COUNT = 5500
-    TX_COUNT_HEIGHT = 5500
+    TX_COUNT = 0
+    TX_COUNT_HEIGHT = 0
     TX_PER_BLOCK = 1
     #REORG_LIMIT = 2000
 
