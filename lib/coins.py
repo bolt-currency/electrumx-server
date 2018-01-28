@@ -1292,8 +1292,8 @@ class Bolt(Coin):
     #P2PKH_VERBYTE = bytes.fromhex("3c")
     #P2SH_VERBYTES = [bytes.fromhex("16")]
     #WIF_BYTE = bytes.fromhex("bc")
-    GENESIS_HASH = ('b194642b3e16cb5094cbeadbf29a04c2'
-                    '24f31239e9dda1aea38949c51bead5e7')
+    GENESIS_HASH = ('000001850318cbda4fbf1f2cdb72bf34'
+                    '58740f2ec77271391e4aed04e23a0255')
     
     TX_COUNT = 5500
     TX_COUNT_HEIGHT = 5200
