@@ -1298,6 +1298,6 @@ class Bolt(Coin):
     TX_COUNT = 5500
     TX_COUNT_HEIGHT = 5500
     TX_PER_BLOCK = 1
-    REORG_LIMIT = 2000
+    #REORG_LIMIT = 2000
 
 
