@@ -1,0 +1,14 @@
+server.crt
+server.csr
+server.key
+
+*/__pycache__/
+.cache/
+tests/*/__pycache__/
+*/*~
+*.#*
+*#
+*~
+/build
+/dist
+/electrumx.egg-info
